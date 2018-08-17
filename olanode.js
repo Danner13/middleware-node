@@ -5,4 +5,4 @@ http.createServer(function(req,res) { 
   res.end('<h2> Olá mundo! </h2>');
 }).listen(3000);
 
-console.log('Servidor iniciado em localhost:3000. Ctrl+C para encerrar…');
+console.log('Servidor iniciado em localhost:3000. Ctrl+C para ence1rrar…');
